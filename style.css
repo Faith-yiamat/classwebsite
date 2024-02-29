@@ -1,0 +1,147 @@
+.holder{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    display: flex;
+    flex: content;
+    margin-bottom:10% ;
+
+}
+#form{
+    background-color: white;
+    background-position: center;
+    width: 80%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 24px;
+}
+.samsung{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    display: flex;
+    flex: content;
+    margin-top: 10%;
+    margin-bottom: 5%;
+}
+
+
+.white{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    display: flex;
+    flex: content;
+    width: 60%;
+    background-color: pink;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 10;
+    margin-bottom: 5%;
+    padding-top: 84px;
+    padding-bottom: 84px;
+    padding-right: 84px;
+    padding-left: 84px;
+
+}
+.icons{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 10%;
+    margin-bottom: 5%;
+
+
+}
+.column{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 200px;
+}
+.info{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 10%;
+    margin-bottom: 5%;
+}
+.about{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 15%;
+    margin-bottom: 5%;
+}
+.ele{
+
+}
+.devices{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.feature{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 5%;
+    margin-bottom: 5%;
+
+}
+.other{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 5%;
+    margin-bottom: 5%;
+
+}
+.fproducts{
+    display: flex;
+    flex-direction: row;
+    
+    
+    margin-top: 5%;
+    margin-bottom: 5%;
+
+}
+.starts{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    
+    
+    margin-bottom: 5%;
+}
+ul{
+    list-style-type: none;
+    margin-right: 30%;
+    padding: 84px;
+    grid-template-columns:10%;
+
+
+}
+li{
+    float: left;
+    align-items: center;
+    justify-content: space-between;
+
+
+}
+
+
+
+    
+    
+
+
+
+
